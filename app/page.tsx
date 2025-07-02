@@ -15,7 +15,9 @@ export default function Home() {
       </div>
 
       <div className="mt-8 mb-8">
-        <button className="automation-btn">Automation</button>
+        <button className="px-6 py-3 bg-blue-600 text-white font-medium rounded-lg hover:bg-blue-700 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2">
+          Automation
+        </button>
       </div>
 
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
