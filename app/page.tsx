@@ -15,7 +15,7 @@ export default function Home() {
       </div>
 
       <div className="mt-8 mb-8">
-        <button className="automation-btn">Automation</button>
+        <button className="automation-button">Automation</button>
       </div>
 
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
