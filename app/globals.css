@@ -30,3 +30,28 @@ a {
     color-scheme: dark;
   }
 }
+
+.simple-button {
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.simple-button:hover {
+  background-color: #0056b3;
+}
+
+.simple-button:active {
+  background-color: #004494;
+}
+
+.simple-button:focus {
+  outline: 2px solid #0070f3;
+  outline-offset: 2px;
+}
