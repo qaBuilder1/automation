@@ -15,7 +15,7 @@ export default function Home() {
       </div>
 
       <div className="mt-8 mb-8">
-        <button className="simple-button">
+        <button className="automation-button">
           Automation
         </button>
       </div>
